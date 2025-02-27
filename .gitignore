@@ -40,3 +40,9 @@ Thumbs.db
 
 # Ignorar caché de Angular  
 .angular/  
+
+# Ignorar dependencias
+node_modules/
+.angular/
+dist/
+out-tsc/
