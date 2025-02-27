@@ -37,3 +37,6 @@ Thumbs.db
 # Configuración del sistema operativo  
 *.swp  
 *.swo  
+
+# Ignorar caché de Angular  
+.angular/  
